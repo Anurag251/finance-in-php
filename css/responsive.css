@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1100px) {
+  #pop-ads .inner-ads ::-webkit-scrollbar {
+    width: 0px;
+  }
+  .about-us-page .about-us .about-us-list .item .image {
+    height: 7rem;
+    width: 7rem;
+  }
+  .contact-page .contact iframe {
+    height: 40vh;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .about-us-page .about-us .about-us-list .item .image {
+    height: 8rem;
+    width: 8rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .about-us-page .about-us .about-us-list .item .image {
+    height: 10rem;
+    width: 10rem;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
